@@ -5,3 +5,5 @@ requests
 openpyxl
 beautifulsoup4
 lxml
+xlrd
+html5lib
